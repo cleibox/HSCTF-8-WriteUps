@@ -28,6 +28,8 @@ Our team's writeups
 |[LSBlue](./misc/LSBlue/LSBlue.md)||
 |[audio-frequency-stego](./misc/audio-frequency-stego/audio-frequency-stego.md)||
 |[seeded-randomizer](./misc/seeded-randomizer/seeded-randomizer.md)||
+|[pallets-of-gold](./misc/pallets-of-gold/pallets-of-gold.md)||
+|[glass-windows](./misc/glass-windows/glass-windows.md)||
 
 </details>
 <details>
