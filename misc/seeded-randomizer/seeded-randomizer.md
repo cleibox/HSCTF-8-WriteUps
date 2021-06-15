@@ -1,4 +1,4 @@
-# Problem Name
+# seeded-randomizer
 
 ## Overview
 Category: misc  

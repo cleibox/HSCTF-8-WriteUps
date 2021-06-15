@@ -13,6 +13,7 @@ Our team's writeups
 <summary>crypto</summary>
 
 |Question|Points|
+|[queen-of-the-hill](./crypto/queen-of-the-hill/queen-of-the-hill.md)||
 
 </details>
 <details>
@@ -22,6 +23,7 @@ Our team's writeups
 |[Return of the Intro to Netcat](misc/Return%20of%20the%20Intro%20to%20Netcat/Return%20of%20the%20Intro%20to%20Netcat.md)||
 |[LSBlue](./misc/LSBlue/LSBlue.md)||
 |[audio-frequency-stego](./misc/audio-frequency-stego/audio-frequency-stego.md)||
+|[seeded-randomizer](./misc/seeded-randomizer/seeded-randomizer.md)||
 
 </details>
 <details>
