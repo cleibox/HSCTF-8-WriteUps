@@ -15,6 +15,7 @@ Our team's writeups
 
 |Question|Points|
 |-|-|
+|[aptenodytes-forsteri](./crypto/aptenodytes-forsteri/aptenodytes-forsteri.md)||
 |[queen-of-the-hill](./crypto/queen-of-the-hill/queen-of-the-hill.md)||
 
 </details>
